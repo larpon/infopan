@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=digikam
+Name=InfoPan
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Author=Larpon Rullekrave Heston
+X-KDE-PluginInfo-Depends=Python-kde4, plasma-scriptengine-python
+X-KDE-PluginInfo-Email=klunkefeber@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=InfoPan
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py

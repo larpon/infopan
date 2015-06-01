@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="sunny.svg">../images/sunny.svg</file>
+    </qresource>
+	<qresource prefix="/images">
+        <file alias="monitor.svg">../images/monitor.svg</file>
+    </qresource>
+	<qresource prefix="/images">
+        <file alias="chip.svg">../images/chip.svg</file>
+    </qresource>
+</RCC>
